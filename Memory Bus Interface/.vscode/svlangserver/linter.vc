@@ -1,0 +1,9 @@
+-v c:\Users\ADMIN\systemverilog-rtl-projects\Memory Bus Interface\package\package.sv
++incdir+c:\Users\ADMIN\systemverilog-rtl-projects\Memory Bus Interface\interface
++incdir+c:\Users\ADMIN\systemverilog-rtl-projects\Memory Bus Interface\package
++incdir+c:\Users\ADMIN\systemverilog-rtl-projects\Memory Bus Interface\rtl
++incdir+c:\Users\ADMIN\systemverilog-rtl-projects\Memory Bus Interface\tb
++incdir+c:\Users\ADMIN\systemverilog-rtl-projects\Memory Bus Interface\interface
++incdir+c:\Users\ADMIN\systemverilog-rtl-projects\Memory Bus Interface\package
++incdir+c:\Users\ADMIN\systemverilog-rtl-projects\Memory Bus Interface\rtl
++incdir+c:\Users\ADMIN\systemverilog-rtl-projects\Memory Bus Interface\tb
